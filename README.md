@@ -47,7 +47,7 @@ Clone este repositório:
 
 Bash
 
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/MatheusGuerra21/Projeto-de-Automa-o-de-Testes-Web-com-Selenium.git
 Navegue até a pasta do projeto:
 
 Bash
